@@ -1,0 +1,10 @@
+header {
+    text-align: center;
+    background: #da532c;
+    color: #fff;
+}
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 40px 0;
+}
